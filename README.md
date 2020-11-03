@@ -1,3 +1,4 @@
+# by Sanskar 090
 # Page Replacement Algorithm: 
 A page fault happens when a running program accesses a memory page that is mapped into the virtual address space, but not loaded in physical memory.
 

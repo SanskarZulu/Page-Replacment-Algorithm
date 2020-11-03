@@ -1,4 +1,6 @@
 #Output: 
+/*
+Output of Page Replacement Algorithm:
 		OS Lab Assignment: Page Replacement Algorithm
 			By Sanskar Sharma 090
 			   PRN: 0120180381
@@ -52,3 +54,5 @@
 		Enter your choice: 4
 ...Program finished with exit code 0                                                                                                            
 Press ENTER to exit console. 
+ 
+*/

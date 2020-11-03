@@ -6,8 +6,7 @@ Since actual physical memory is much smaller than virtual memory, page faults ha
 2. Optimal Page Replacement Algo.
 3. Least Recently Used.
 
-/*
-Output of Page Replacement Algorithm:
+Output:
 		OS Lab Assignment: Page Replacement Algorithm
 			By Sanskar Sharma 090
 			   PRN: 0120180381
